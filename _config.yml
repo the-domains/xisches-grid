@@ -1,0 +1,14 @@
+layout_spectrum: 0.8412078083492815
+typography_spectrum: 0.07022553845308721
+color:
+  brandStrength: 0.31512075080536306
+  lightness: 0.43915141792967916
+  saturation: 0.9242159917484969
+  rhythmicContrast: 0.6198095006402582
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Xische's Grid
