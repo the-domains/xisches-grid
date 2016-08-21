@@ -6,9 +6,9 @@ color:
   saturation: 0.9242159917484969
   rhythmicContrast: 0.6198095006402582
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Xische's Grid
